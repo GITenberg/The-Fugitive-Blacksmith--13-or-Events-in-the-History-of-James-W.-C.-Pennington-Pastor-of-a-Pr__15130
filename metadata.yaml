@@ -1,0 +1,32 @@
+_repo: The-Fugitive-Blacksmith--13-or-Events-in-the-History-of-James-W.-C.-Pennington-Pastor-of-a-Pr__15130
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pennington, James W. C.
+    birthdate: 1809
+    deathdate: 1870
+    gutenberg_agent_id: '5872'
+    url: http://www.gutenberg.org/2009/agents/5872
+    wikipedia: http://en.wikipedia.org/wiki/James_W.C._Pennington
+description: ''
+gutenberg_issued: '2005-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15130'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fugitive slaves -- United States -- Biography'
+- !lcc 'E300'
+- !lcsh 'Slavery -- Maryland'
+- !lcsh 'Slaves -- United States -- Biography'
+- !lcsh 'Pennington, James W. C.'
+title: "The Fugitive Blacksmith\r\nor, Events in the History of James W. C. Pennington,\
+  \ Pastor of a Presbyterian Church, New York, Formerly a Slave in the State of Maryland,\
+  \ United States"
+url: http://www.gutenberg.org/ebooks/15130
